@@ -17,5 +17,14 @@
     "image-size": "^0.8.3",
     "request": "^2.88.0",
     "request-promise-native": "^1.0.8"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "jsxSingleQuote": true,
+    "semi": false,
+    "tabWidth": 2,
+    "bracketSpacing": true,
+    "jsxBracketSameLine": false,
+    "arrowParens": "always"
   }
 }
