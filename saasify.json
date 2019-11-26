@@ -1,5 +1,6 @@
 {
   "name": "image-size",
+  "description": "Simple API for detecting image dimensions",
   "services": [
     {
       "src": "index.ts",
@@ -12,5 +13,21 @@
         }
       ]
     }
-  ]
+  ],
+  "saas": {
+    "name": "image-size",
+    "heading": "**Simple image dimension API.**",
+    "subheading": "An API to get the dimensions of any image via a URL.",
+    "repo": "https://github.com/saasify-sh/image-size",
+    "logo": "./media/logo.png",
+    "favicon": "./media/favicon.ico",
+    "theme": {
+      "name": "waves",
+      "backgroundImage": "https://images.unsplash.com/photo-1531171673193-06ab3c43e4a5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
+      "buttonStyle": "rounded",
+      "wave": false,
+      "gradientDark": true,
+      "codeBlockDark": true
+    }
+  }
 }
