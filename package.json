@@ -11,5 +11,8 @@
   },
   "devDependencies": {
     "@types/node": "^12.6.9"
+  },
+  "dependencies": {
+    "image-size": "^0.8.3"
   }
 }
