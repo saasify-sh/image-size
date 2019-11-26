@@ -2,7 +2,15 @@
   "name": "image-size",
   "services": [
     {
-      "src": "index.ts"
+      "src": "index.ts",
+      "examples": [
+        {
+          "name": "Get image dimensions from a URL",
+          "input": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Close_up_of_a_black_domestic_cat.jpg"
+          }
+        }
+      ]
     }
   ]
 }
