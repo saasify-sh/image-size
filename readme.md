@@ -47,6 +47,23 @@ Returns the dimensions of the image
 }
 ```
 
+### Supported formats
+
+- BMP
+- CUR
+- DDS
+- GIF
+- ICNS
+- ICO
+- JPEG
+- KTX
+- PNG
+- PNM (PAM, PBM, PFM, PGM, PPM)
+- PSD
+- SVG
+- TIFF
+- WebP
+
 ## License
 
 MIT © [image-size](https://github.com/image-size)
