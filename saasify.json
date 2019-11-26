@@ -6,7 +6,8 @@
       "src": "src/sizebyurl.ts",
       "examples": [
         {
-          "name": "Get image dimensions from a URL",
+          "name": "From URL",
+          "description": "Get image dimensions from a URL",
           "input": {
             "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Close_up_of_a_black_domestic_cat.jpg"
           }
@@ -19,7 +20,7 @@
     "heading": "**Simple image dimension API.**",
     "subheading": "An API to get the dimensions of any image via a URL.",
     "repo": "https://github.com/saasify-sh/image-size",
-    "logo": "./media/logo.png",
+    "logo": "./media/logo.svg",
     "favicon": "./media/favicon.ico",
     "theme": {
       "name": "waves",
