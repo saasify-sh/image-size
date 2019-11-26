@@ -12,7 +12,7 @@ This project provides a hosted API for [image-size](https://github.com/image-siz
 
 ## Hosted API
 
-<a href="https://image-size.saasify.sh">
+<a href="https://dev_image-size.saasify.sh">
   <img
     src="https://badges.saasify.sh"
     height="40"
@@ -24,7 +24,7 @@ This project provides a hosted API for [image-size](https://github.com/image-siz
 
 Welcome to the quick-start! There is currently only one API, which is detailed below via `cURL`.
 
-Also be sure to check out the full reference of [API endpoints](https://image-size.saasify.sh/docs#tag/service).
+Also be sure to check out the full reference of [API endpoints](https://dev_image-size.saasify.sh/docs#tag/service).
 
 ### Getting image size from a URL
 
