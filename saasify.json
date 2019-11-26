@@ -1,6 +1,7 @@
 {
   "name": "image-size",
   "description": "Simple API for detecting image dimensions",
+  "alias": "image-size",
   "services": [
     {
       "src": "src/sizebyurl.ts",
