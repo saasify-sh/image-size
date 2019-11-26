@@ -26,8 +26,8 @@
       "backgroundImage": "https://images.unsplash.com/photo-1531171673193-06ab3c43e4a5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
       "buttonStyle": "rounded",
       "wave": false,
-      "gradientDark": true,
-      "codeBlockDark": true
+      "codeBlockDark": true,
+      "color": "#F19436"
     }
   }
 }
