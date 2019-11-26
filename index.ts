@@ -2,6 +2,11 @@ import { imageSize } from 'image-size'
 import { ISizeCalculationResult } from 'image-size/dist/types/interface'
 import request from 'request-promise-native'
 
+/**
+ * Get the image dimensions from a URL
+ *
+ * @param url - Link to image to process.
+ */
 export default async (url: string): Promise<ISizeCalculationResult> => {
   let body
 
