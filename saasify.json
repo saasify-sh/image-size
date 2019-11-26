@@ -16,6 +16,15 @@
       ]
     }
   ],
+  "amountPerBase": 99,
+  "amountPerRequest": 0.004,
+  "amountPerCompute": 0,
+  "amountPerBandwidth": 0,
+  "noAuthRateLimit": {
+    "requests": true,
+    "requestsInterval": 3600,
+    "requestsMaxPerInterval": 15
+  },
   "saas": {
     "name": "image-size",
     "heading": "**Simple image dimension API.**",
