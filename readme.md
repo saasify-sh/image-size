@@ -29,7 +29,7 @@ Also be sure to check out the full reference of [API endpoints](https://image-si
 ### Getting image size from a URL
 
 ```sh
-curl -X POST 'https://api.saasify.sh/1/call/dev/image-size' \
+curl -X POST 'https://api.saasify.sh/1/call/dev/image-size/sizebyurl' \
   -H 'content-type: application/json' \
   -d '{
     "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Close_up_of_a_black_domestic_cat.jpg"

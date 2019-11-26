@@ -3,7 +3,7 @@
   "description": "Simple API for detecting image dimensions",
   "services": [
     {
-      "src": "index.ts",
+      "src": "src/sizebyurl.ts",
       "examples": [
         {
           "name": "Get image dimensions from a URL",
