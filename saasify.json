@@ -1,0 +1,8 @@
+{
+  "name": "image-size",
+  "services": [
+    {
+      "src": "index.ts"
+    }
+  ]
+}

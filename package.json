@@ -1,0 +1,15 @@
+{
+  "name": "image-size",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Simple API for detecting image dimensions",
+  "author": "image-size",
+  "license": "MIT",
+  "repository": "image-size/image-size",
+  "engines": {
+    "node": ">=8"
+  },
+  "devDependencies": {
+    "@types/node": "^12.6.9"
+  }
+}
